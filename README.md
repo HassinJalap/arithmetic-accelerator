@@ -43,5 +43,4 @@ The accelerator is implemented in Verilog. The design combines carry select adde
    cd src/bd
    source design_1.tcl
 
-
 The project should be set up in Vivado with the source files and the block design
