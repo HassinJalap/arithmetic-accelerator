@@ -8,7 +8,7 @@ This project implements a 512-bit arithmetic accelerator designed for performing
 - Commands specify the operation to perform.
 - Operations have a latency of only **6 clock cycles**.
 - Total area of 1307 LUTs and 1571 FFs.
-
+  
 ## Usage
 ### Input Format
 The input format consists of:
